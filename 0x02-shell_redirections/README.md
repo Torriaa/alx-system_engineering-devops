@@ -33,3 +33,6 @@ include capital letters as well
 task 19- Replace all characters A and c from input to Z and e respectively.
 task 20- Create a script that removes all letters c and C from input.
 task 21- a script that reverse its input.
+a script that displays all users and their home directories, sorted by users.
+
+Based on the the /etc/passwd file

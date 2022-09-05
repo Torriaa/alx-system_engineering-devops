@@ -32,3 +32,4 @@ Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 include capital letters as well
 task 19- Replace all characters A and c from input to Z and e respectively.
 task 20- Create a script that removes all letters c and C from input.
+task 21- a script that reverse its input.
